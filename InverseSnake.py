@@ -18,7 +18,7 @@ BORDER = '🟨'
 BODY = '🟪'
 HEAD = '🟦'
 SPACE = ' '
-FOOD = '😠'
+FOOD = '🍈'
 #Snake & Board config
 
 snake = deque([[6, 5], [6, 4], [6, 3]])
